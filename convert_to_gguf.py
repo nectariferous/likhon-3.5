@@ -27,3 +27,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     convert_to_gguf(args.input_model, args.output_model, args.quantization)
+

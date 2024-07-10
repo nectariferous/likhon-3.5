@@ -65,3 +65,4 @@ if __name__ == "__main__":
     explanation = explain_concept(model, tokenizer, concept)
     print(f"Concept: {concept}")
     print(f"Explanation: {explanation}")
+
