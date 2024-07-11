@@ -53,9 +53,9 @@ graph TD
 ## 🏆 Credits
 
 - **Likhon Sheikh** (@nectariferous): Architect 🏗️
-- @GPT4ALL - [@GPT4All](https://gpt4all.io): GGUF platform 🖥️
-- @NVIDIA - [NVIDIA](https://www.nvidia.com): GPU tech 💻
-- @NOMIC - [Nomic AI](https://home.nomic.ai): GGUF tools 🛠️
+- [@GPT4All](https://gpt4all.io): GGUF platform 🖥️
+- [@NVIDIA](https://www.nvidia.com): GPU tech 💻
+- [@Nomic AI](https://home.nomic.ai): GGUF tools 🛠️
 - @Anthropic - [Anthropic](https://www.anthropic.com): Inspiration 💡
 
 <div align="center">
