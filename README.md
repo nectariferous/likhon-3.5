@@ -1,4 +1,3 @@
-# লিখন ৩.৫ | Likhon 3.5
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nectariferous/likhon-3.5/main/gguf-model/Add%20a%20heading_20240711_082156_0000.png" alt="Likhon 3.5 Logo" 
