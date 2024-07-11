@@ -1,4 +1,4 @@
-# 🧠 Likhon 3.5 GGUF Model | Run Likhon 3.5 on Localhost!
+# 🧠 Likhon 3.5 GGUF Model | Run Likhon 3.5 on GPU!
 
 <div align="center">
 
