@@ -1,4 +1,4 @@
-# 🧠 GGUF | Run Likhon 3.5 on GPU! ✳️
+# 🧠 GGUF | Likhon 3.5 on GPU! ✳️
 
 <div align="center">
 
