@@ -1,4 +1,6 @@
-# 🧠 Self-host on Localhost | Run Likhon 3.5 on GPU (Good for use work without any data / wifi connections)
+# 🧠 Self-host on Localhost | Run Likhon 3.5 on GPU 
+
+# ☢️ Good for use work without any data / wifi connections
 
 <div align="center">
 
