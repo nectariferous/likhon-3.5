@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Likhon 3.5 Logo](https://via.placeholder.com/150x150.png?text=L3.5)
+![Likhon 3.5 Logo](https://raw.githubusercontent.com/nectariferous/likhon-3.5/main/gguf-model/Add%20a%20heading_20240711_082156_0000.png)
 
 **Excel in Reasoning, Knowledge, and Coding.**
 
