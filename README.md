@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <strong>বাংলাদেশের গর্ব, কৃত্রিম বুদ্ধিমত্তার নতুন যুগ</strong><br>
+  <strong>বাংলাদেশের গর্ব, আমাদের নিজেদের কৃত্রিম বুদ্ধিমত্তা বাহ (AI) - ফ্রি! </strong><br>
   <em>Bangladesh's Pride, A New Era of Artificial Intelligence</em>
 </p>
 
